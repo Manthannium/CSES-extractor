@@ -2,7 +2,7 @@
 Get your accepted solutions of all completed problems on CSES site
 
 
-## Instructions
+### Instructions
 - Clone the repository
 ```
 >> git clone <repo>
