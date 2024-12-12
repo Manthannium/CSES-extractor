@@ -1,0 +1,33 @@
+# Ignore Python bytecode files and cpp solution files
+*.pyc
+*.pyo
+*.cpp
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore IDE/editor files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore system files (macOS, Windows, etc.)
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Ignore environment-specific files (e.g., dotenv files)
+.env
+.env.*
+
+# specific files and folders
+cses/
+test.py
+planning.md
